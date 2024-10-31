@@ -1,4 +1,4 @@
-import kamesh from '../../public/kamesh.jpg';
+import kamesh from '../assets/kamesh.jpg';
 import Social from './socials';
 const About = ()=>{
     return (
